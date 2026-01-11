@@ -1,11 +1,10 @@
-  > related repo [Game-Development-Journey](https://github.com/b1tranger/Game-Development-Journey/)
-
-[ repository created on 21st April 2025 ]
-
-( note that further updates will be updated on https://github.com/b1tranger/Game-Development-Journey repo's Raylib_Game section, since the course is completed. )
+> related repo [Game-Development-Journey](https://github.com/b1tranger/Game-Development-Journey/)
+>
+> [ repository created on 21st April 2025 ]
 
 ### # DSA-project
 this repository will contain files for the Lab Project of Data Structures and Algorithms 1 course in UITS
+>( note that further updates will be updated on https://github.com/b1tranger/Game-Development-Journey repo's Raylib_Game section, since the course is completed. )
 
 \# demo gameplay: https://youtu.be/21WEimEq-vE
 ---
