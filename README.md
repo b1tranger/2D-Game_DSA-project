@@ -1,4 +1,5 @@
   > related repo [Game-Development-Journey](https://github.com/b1tranger/Game-Development-Journey/)
+
 [ repository created on 21st April 2025 ]
 
 ( note that further updates will be updated on https://github.com/b1tranger/Game-Development-Journey repo's Raylib_Game section, since the course is completed. )
