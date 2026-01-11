@@ -9,6 +9,10 @@ this repository will contain files for the Lab Project of Data Structures and Al
 
 demo gameplay: https://youtu.be/21WEimEq-vE
 
+### # updates to do
+- [ ] make a release version (export file, playable without dependencies)
+- [ ] update game logic (broken physics, ball sticks to the paddle due to gravity)
+
 # Note
 - You must have Raylib installed before running the .exe ( DSA_Project_Game/x64/debug/*.exe )
 - Guide: https://youtu.be/UiZGTIYld1M
